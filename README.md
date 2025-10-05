@@ -130,8 +130,8 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 📬 Contact
 
 **Developer:** Soham Pujari
-**GitHub:** [https://github.com/yourusername](https://github.com/yourusername)
-**Project Link:** [https://github.com/yourusername/AutoSafe](https://github.com/yourusername/AutoSafe)
+**GitHub:** [https://github.com/yourusername]([https://github.com/yourusername](https://github.com/sohampujari))
+**Project Link:** [https://github.com/yourusername/AutoSafe]([https://github.com/yourusername/AutoSafe](https://github.com/sohampujari/AutoSafe-Advanced-Vehicle-Safety-Comfort-Enhancement))
 
 ---
 
