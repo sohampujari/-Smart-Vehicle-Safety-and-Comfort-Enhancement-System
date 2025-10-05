@@ -58,6 +58,7 @@ In today's automotive landscape, ensuring vehicle safety and enhancing occupant 
 Contributions to this project are welcome. If you have ideas for improvements or would like to contribute code or documentation, please feel free to fork this repository and submit pull requests.
 
 ## Authors
+- Soham Pujari - Display Module Configuration & Optimization 
 - Atharv Sharma - Project Lead & Developer
 - G Neeraj - Sensor Integration & Testing
-- Soham Pujari - Display Module Configuration & Optimization 
+
